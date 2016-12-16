@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemoteSave</string>
+    <string name="action_settings">Settings</string>
+    <string name="comment">Add Comment Activity</string>
+</resources>
